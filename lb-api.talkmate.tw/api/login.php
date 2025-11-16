@@ -1,0 +1,1 @@
+{"status":true,"token_status":true,"message":"\u53d6\u5f97session_token\u6210\u529f\uff01","data":{"first_time":false,"session_token":"NtFfhWszKnAdhMac4ByfjBB59ih8I1rc"},"sms_gift_check":{"status":false,"message":"","route_sign":1,"user_id":-1}}

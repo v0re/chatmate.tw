@@ -1,0 +1,1 @@
+{"status":true,"message":"","data":{"diamond":"50000"},"search_user":{"id":"888888","uid":"FUCKGAD6KGU","name":"\u5c0f\u8c93","diamond":"88888","text_fee":"1","voice_fee":"1","video_fee":"21","voice_cn":"1","video_cn":"1","is_follow":"1"}}
